@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Syahmi
 🔭 I’m currently working on few personal project<br>
 🌱 I’m currently learning Java, Docker, Kubernetes, PHP, and more
 
