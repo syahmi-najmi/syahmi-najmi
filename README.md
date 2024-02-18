@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Syahmi
-🔭 I’m currently working on few personal project<br>
-🌱 I’m currently learning Java, Docker, Kubernetes, PHP, and more
+🔭 Currently working on few personal project<br>
+🌱 Currently learning backend development
 
 
 ## 🌐 Socials:
@@ -12,15 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=syahmi-najmi&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syahmi-najmi&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syahmi-najmi&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!--### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=syahmi-najmi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
