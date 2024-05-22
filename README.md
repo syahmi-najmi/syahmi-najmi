@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Syahmi
 🔭 Currently working to be backend developer<br>
-🌱 Seeking knowledge in everything before devin taking all the job :(
+🌱 Eager to learn and looking for a mentor 
 
 
 ## 🌐 Socials:
