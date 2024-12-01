@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Syahmi
 🔭 Currently working to be backend developer<br>
-🌱 Eager to learn and looking for a mentor 
+🌱 Eager to learn more in code 
 
 
 ## 🌐 Socials:
